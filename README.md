@@ -15,4 +15,4 @@
 - Identifies channels generating the highest journey touch counts.
 - Enables interactive analysis by customer type, country and date.
 
-**Tool:** Power BI
+**Tool:** Power BI,Excel.
